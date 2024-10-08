@@ -1,0 +1,7 @@
+## APIVersion: 101043 101044
+## Title: Item ID Viewer
+## Version: 1.0.0
+## Author: Mathinator
+## Description: Adds items and their ID to the chat when hovering over them.
+
+MyItemIDViewer.lua
